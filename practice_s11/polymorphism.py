@@ -8,4 +8,5 @@ class Animal(ABC):
 
 
 #Hace uso de sound con su animal fav
-
+class Delfin():
+    pass
