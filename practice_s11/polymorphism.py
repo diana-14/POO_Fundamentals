@@ -7,5 +7,5 @@ class Animal(ABC):
 
 
 
-#Hace uso de sound con su aminal fav
+#Hace uso de sound con su animal fav
 
