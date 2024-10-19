@@ -7,5 +7,7 @@ class Animal(ABC):
 
 
 
+class dog:
+    pass
 #Hace uso de sound con su animal fav
 
